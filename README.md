@@ -28,3 +28,5 @@
 
 # SQL for Data Analytics - Learn SQL in 4 Hours | Luke Barousse
 - https://youtu.be/7mz73uXD9DA?si=kKUsGBc8lKkEC6c2
+  - VSCode로 PostgreSQL에 연결해서 연습하기
+    - https://youtu.be/7mz73uXD9DA?si=kCdvh6U1JgA-RJRo&t=5778 
