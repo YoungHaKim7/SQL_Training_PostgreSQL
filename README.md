@@ -2,6 +2,16 @@
 
 <hr />
 
+# SQL Databases vs NoSQL Databases
+
+|SQL Databases|NoSQL Databases|
+|-|-|
+|1. PostgreSQL<br>2. MySQL<br>3.SQLite<br>4.SQL Server<br>5.Oracle<br>6. CockroachDB|1. Mongo DB<br>2.Redis<br>3.ElasticSearch<br>4.Firebase<br>5. Dynamo DB|
+
+- 출처 : 13분9초 https://youtu.be/KBDSJU3cGkc?si=TcdAlhA0fWEC3VaE
+
+<hr />
+
 # PostgreSQL
 - ebook
   - https://www.postgresqltutorial.com/
