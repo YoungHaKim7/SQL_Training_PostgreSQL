@@ -23,3 +23,8 @@
 
 # (230824)SQL For Web Developers - Complete Database Course | freeCodeCamp.org
 - https://youtu.be/KBDSJU3cGkc?si=TcdAlhA0fWEC3VaE
+
+<hr />
+
+# SQL for Data Analytics - Learn SQL in 4 Hours | Luke Barousse
+- https://youtu.be/7mz73uXD9DA?si=kKUsGBc8lKkEC6c2
