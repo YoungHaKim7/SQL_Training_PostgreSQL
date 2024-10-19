@@ -20,6 +20,10 @@
       - https://www.youtube.com/live/rYwXxc9Cpbo?si=4aP3wTCQbl1oItFN
     - PostgreSQL Tutorial for Beginners | freeCodeCamp.org
       -  https://youtu.be/SpfIwlAYaKk?si=cXVAdLMQQacjMnf_
+  - 다른 Tutorial MySQL인듯
+    - Database Engineering Complete Course | DBMS Complete Course | Nerd's lesson
+      - https://youtu.be/iwRneX7GIGI?si=D6d409BipZM1ngXA
+
 
 
 <hr>
