@@ -15,9 +15,12 @@
 # PostgreSQL
 - ebook
   - https://www.postgresqltutorial.com/
+  - Tutorial모음
+    - Learning SQL from scratch 🔴 PostgreSQL Live #1 | Xkonti
+      - https://www.youtube.com/live/rYwXxc9Cpbo?si=4aP3wTCQbl1oItFN
+    - PostgreSQL Tutorial for Beginners | freeCodeCamp.org
+      -  https://youtu.be/SpfIwlAYaKk?si=cXVAdLMQQacjMnf_
 
-# Learning SQL from scratch 🔴 PostgreSQL Live #1 | Xkonti
-- https://www.youtube.com/live/rYwXxc9Cpbo?si=4aP3wTCQbl1oItFN
 
 <hr>
 
