@@ -20,6 +20,7 @@
       - https://www.youtube.com/live/rYwXxc9Cpbo?si=4aP3wTCQbl1oItFN
     - PostgreSQL Tutorial for Beginners | freeCodeCamp.org
       -  https://youtu.be/SpfIwlAYaKk?si=cXVAdLMQQacjMnf_
+    - [(220929)PostgreSQL Tutorial Full Course 2022 | Derek Banas](https://youtu.be/85pG_pDkITY?si=x8asVdoWzfnlFT0p)
   - 다른 Tutorial MySQL인듯
     - Database Engineering Complete Course | DBMS Complete Course | Nerd's lesson
       - https://youtu.be/iwRneX7GIGI?si=D6d409BipZM1ngXA
