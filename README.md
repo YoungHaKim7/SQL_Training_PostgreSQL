@@ -5,7 +5,7 @@
 # SQL명령어 그림으로 이해하기
 - 출처 : https://www.instagram.com/reel/DBrYJ_EhGku/?igsh=MWdwY2htemZ1b2xs
 fork link: https://economiceco.tistory.com/19642
-<img width=180px src="https://github.com/user-attachments/assets/0da8b29c-bad8-4f4e-9857-f683e336744e" />
+<img width=450px src="https://github.com/user-attachments/assets/0da8b29c-bad8-4f4e-9857-f683e336744e" />
 
 <hr />
 
