@@ -1,16 +1,67 @@
 # SQL_Training_PostgreSQL
 
-# PostgreSQL Tutorial
+# link
+
+
+
+<hr />
+
+
+# PostgreSQL Tutorial[|🔝|](#link)
 - https://neon.tech/postgresql/tutorial
 
+
 <hr />
 
-# Docker로 PostgreSQL 설치
+# Docker로 PostgreSQL 설치[|🔝|](#link)
 - https://xeppetto.github.io/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4/WSL-and-Docker/15-Docker-PostGreSQL/
 
+```
+docker run --name {name-of-container} -v {name-of-volume}:{volume-storage-location} -p {desired-port}:5432 -e POSTGRES_PASSWORD={desired-password} -d {desired-postgres-image}
+```
+
+- https://medium.com/@bengiese22/how-to-run-postgresql-in-docker-on-mac-for-local-development-b7d79afd9219
+
 <hr />
 
-# SQL명령어 그림으로 이해하기
+# PostgreSQL에 sql파일 넣기[|🔝|](#link)
+- https://stackoverflow.com/questions/9736085/run-a-postgresql-sql-file-using-command-line-arguments
+
+
+```
+psql -h localhost -d userstoreis -U admin -p 5432 -a -q -f /home/jobs/Desktop/resources/postgresql.sql
+
+-h PostgreSQL server IP address
+-d database name
+-U user name
+-p port which PostgreSQL server is listening on
+-f path to SQL script
+-a all echo
+-q quiet 
+-f file
+
+export PGPASSWORD=<password>
+psql -h <host> -d <database> -U <user_name> -p <port> -a -w -f <file>.sql
+```
+
+<hr />
+
+# PostgreSQL 설치 위치(`/bin/psql`)[|🔝|](#link)
+
+- https://stackoverflow.com/questions/9736085/run-a-postgresql-sql-file-using-command-line-arguments
+
+```
+psql --version
+which psql
+
+Mine is version 9.1.6 located in /bin/psql.
+```
+
+
+
+<hr />
+
+# SQL명령어 그림으로 이해하기[|🔝|](#link)
 - 출처 : https://www.instagram.com/reel/DBrYJ_EhGku/?igsh=MWdwY2htemZ1b2xs
   - fork link: https://economiceco.tistory.com/19642
 
@@ -18,7 +69,7 @@
 
 <hr />
 
-# SQL Databases vs NoSQL Databases
+# SQL Databases vs NoSQL Databases[|🔝|](#link)
 
 |SQL Databases|NoSQL Databases|
 |-|-|
@@ -28,7 +79,7 @@
 
 <hr />
 
-# PostgreSQL
+# PostgreSQL[|🔝|](#link)
 - ebook
   - https://www.postgresqltutorial.com/
   - Tutorial모음
@@ -46,17 +97,17 @@
 
 <hr>
 
-# (230824)SQL For Web Developers - Complete Database Course | freeCodeCamp.org
+# (230824)SQL For Web Developers - Complete Database Course | freeCodeCamp.org[|🔝|](#link)
 - https://youtu.be/KBDSJU3cGkc?si=TcdAlhA0fWEC3VaE
 
 <hr />
 
-# SQL for Data Analytics - Learn SQL in 4 Hours | Luke Barousse
+# SQL for Data Analytics - Learn SQL in 4 Hours | Luke Barousse[|🔝|](#link)
 - https://youtu.be/7mz73uXD9DA?si=kKUsGBc8lKkEC6c2
   - VSCode로 PostgreSQL에 연결해서 연습하기
     - https://youtu.be/7mz73uXD9DA?si=kCdvh6U1JgA-RJRo&t=5778 
 
 <hr />
 
-# (241009)Databases In-Depth – Complete Course | freeCodeCamp.org
+# (241009)Databases In-Depth – Complete Course | freeCodeCamp.org[|🔝|](#link)
 - https://youtu.be/pPqazMTzNOM?si=VwH-e-MRPX8LXxgl
