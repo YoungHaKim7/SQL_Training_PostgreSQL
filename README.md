@@ -16,8 +16,49 @@
 # Docker로 PostgreSQL 설치[|🔝|](#link)
 - https://xeppetto.github.io/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4/WSL-and-Docker/15-Docker-PostGreSQL/
 
+- https://judo0179.tistory.com/entry/Docker-Postgresql-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%85%8B%ED%8C%85%ED%95%98%EA%B8%B0-1
+
 ```
 docker run --name {name-of-container} -v {name-of-volume}:{volume-storage-location} -p {desired-port}:5432 -e POSTGRES_PASSWORD={desired-password} -d {desired-postgres-image}
+
+docker run -p 5432:5432 --name postgres -e POSTGRES_PASSWORD=1q2w3e4r -d postgres
+
+
+docker exec -it postgres /bin/bash
+
+
+
+
+root@ac61c662ee4c:/# psql -U postgres
+psql (13.0 (Debian 13.0-1.pgdg100+1))
+Type "help" for help.
+
+postgres=# CREATE USER seongwon PASSWORD '1q2w3e4r' SUPERUSER;
+CREATE ROLE
+
+postgres=# CREATE DATABASE test OWNER seongwon;
+CREATE DATABASE
+
+postgres=# \c test seongwon
+You are now connected to database "test" as user "seongwon".
+test=# CREATE TABLE star (
+id integer NOT NULL,
+name character varying(255),
+class character varying(32),
+age integer,
+radius integer,
+lum integer,
+magnt integer,
+CONSTRAINT star_pk PRIMARY KEY (id)
+);
+CREATE TABLE
+
+test=# \dt
+        List of relations
+ Schema | Name | Type  |  Owner
+--------+------+-------+----------
+ public | star | table | seongwon
+(1 row)
 ```
 
 - https://medium.com/@bengiese22/how-to-run-postgresql-in-docker-on-mac-for-local-development-b7d79afd9219
