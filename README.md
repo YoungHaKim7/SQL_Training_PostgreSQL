@@ -1,4 +1,7 @@
-# SQL_Training_PostgreSQL-
+# SQL_Training_PostgreSQL
+
+# Docker로 PostgreSQL 설치
+- https://xeppetto.github.io/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4/WSL-and-Docker/15-Docker-PostGreSQL/
 
 <hr />
 
