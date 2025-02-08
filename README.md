@@ -9,6 +9,8 @@
   - PostgreSQL 14의 내부구조(스냅샷, 버퍼캐시, WAL, 잠금, 질의 실행, 각종 색인)에 대해 소개한 무료 이북의 최종본이 지난 3월 즈음에 나왔길래 뒤늦게나마 소개해 봅니다.
     - PDF 다운로드 : https://edu.postgrespro.com/postgresql_internals-14_en.pdf
 
+- [(외부링크)https://neon.tech/postgresql/postgresql-getting-started/postgresql-sample-database](https://neon.tech/postgresql/postgresql-getting-started/postgresql-sample-database)
+
 <hr />
 
 
