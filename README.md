@@ -2,6 +2,9 @@
 
 # link
 
+- 내가 정리한 PostgreSQL 커멘드Command 모음
+  - https://github.com/YoungHaKim7/postgresql_gy
+
 
 
 <hr />
