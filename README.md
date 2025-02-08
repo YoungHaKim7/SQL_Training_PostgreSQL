@@ -12,8 +12,11 @@
 <hr />
 
 
+
 # PostgreSQL Tutorial[|🔝|](#link)
 - https://neon.tech/postgresql/tutorial
+- 한국 사람이 정리한 Blog 글
+  - https://benn.tistory.com/28
 
 
 <hr />
@@ -157,3 +160,18 @@ Mine is version 9.1.6 located in /bin/psql.
 
 # (241009)Databases In-Depth – Complete Course | freeCodeCamp.org[|🔝|](#link)
 - https://youtu.be/pPqazMTzNOM?si=VwH-e-MRPX8LXxgl
+
+# macOS(Path)[|🔝|](#link)
+
+```bash
+If you need to have libpq first in your PATH, run:
+  fish_add_path /opt/homebrew/opt/libpq/bin
+
+For compilers to find libpq you may need to set:
+  set -gx LDFLAGS "-L/opt/homebrew/opt/libpq/lib"
+  set -gx CPPFLAGS "-I/opt/homebrew/opt/libpq/include"
+
+For pkg-config to find libpq you may need to set:
+  set -gx PKG_CONFIG_PATH "/opt/homebrew/opt/libpq/lib/pkgconfig"
+
+```
