@@ -23,6 +23,16 @@
 
 <hr />
 
+# docker run
+- https://diary-developer.tistory.com/20
+
+```bash
+ docker run -p 5432:5432 --name test-postgres \
+      -e POSTGRES_PASSWORD=1234 \
+      -e TZ=Asia/Seoul \
+      -d postgres:latest
+```
+
 # Docker로 PostgreSQL 설치[|🔝|](#link)
 - https://xeppetto.github.io/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4/WSL-and-Docker/15-Docker-PostGreSQL/
 
