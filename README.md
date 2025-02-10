@@ -13,6 +13,15 @@
 
 <hr />
 
+- [SQL Databases vs NoSQL Databases](#sql-databases-vs-nosql-databases)
+
+
+<hr />
+
+- [외부링크) NoSQL 설명!! RDB와는 어떤 차이가 있는지도 설명!! MongoDB, Redis 매우 간단한 예제 포함!! | 쉬운코드](https://youtu.be/sqVByJ5tbNA?si=VIkfwentNuLA8OkZ)
+
+<hr />
+
 
 
 # PostgreSQL Tutorial[|🔝|](#link)
