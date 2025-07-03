@@ -22,6 +22,9 @@
 
 <hr />
 
+- [류광님의 SQL 기초 그냥 보고 외우면 된다.https://zzsza.github.io/gcp/2025/07/02/sql-level/](https://zzsza.github.io/gcp/2025/07/02/sql-level/)
+
+<hr />
 
 
 # PostgreSQL Tutorial[|🔝|](#link)
