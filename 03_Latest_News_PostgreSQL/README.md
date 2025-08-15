@@ -1,0 +1,3 @@
+# Postgres 18 just dropped. Now is the best time to learn it...
+Awesome
+- https://youtu.be/yIaE9lONIVI?si=sPzUaFMT4waKSRpV
