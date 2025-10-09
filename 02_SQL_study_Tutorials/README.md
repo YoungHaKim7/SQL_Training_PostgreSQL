@@ -8,4 +8,5 @@
 
 - [(외부링크)https://neon.tech/postgresql/postgresql-getting-started/postgresql-sample-database](https://neon.tech/postgresql/postgresql-getting-started/postgresql-sample-database)
 
-
+# (251010)(11hr) Harvard CS50’s Intro to Databases with SQL – Full University Course | freeCodeCamp.org
+- https://youtu.be/WXk7yDqsKxs?si=9hF0sfvHTMtLIj8x
