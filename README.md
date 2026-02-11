@@ -1,5 +1,8 @@
 # SQL_Training_PostgreSQL
 
+- [PostgreSQL역사와 정리 잘됨. wiki](https://en.wikipedia.org/wiki/PostgreSQL)
+
+
 # link
 
 - 내가 정리한 PostgreSQL 커멘드Command 모음
