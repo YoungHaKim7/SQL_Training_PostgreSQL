@@ -13,6 +13,11 @@
 
 <hr />
 
+- crates.io
+  - https://github.com/theseus-rs/postgresql-embedded
+
+<hr />
+
 - [SQL Databases vs NoSQL Databases](#sql-databases-vs-nosql-databases)
 
 
