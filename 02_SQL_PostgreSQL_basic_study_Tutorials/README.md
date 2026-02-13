@@ -26,5 +26,8 @@
 # (190404)(4.5hr)Learn PostgreSQL Tutorial - Full Course for Beginners | freeCodeCamp.org
 - https://youtu.be/qw--VYLpxG4?si=nTn8ipYqIW2vE9cv
 
+- [다른거 PostgreSQL Tutorial Full Course 2022 | Derek Banas](https://youtu.be/85pG_pDkITY?si=sag9Z_H8wr_xC-_r)
+
+
 # (251010)(11hr) Harvard CS50’s Intro to Databases with SQL – Full University Course | freeCodeCamp.org
 - https://youtu.be/WXk7yDqsKxs?si=9hF0sfvHTMtLIj8x
