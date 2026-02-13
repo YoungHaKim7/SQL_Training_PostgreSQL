@@ -1,6 +1,13 @@
 # 내가 정리한 PostgreSQL 커멘드Command 모음
 - https://github.com/YoungHaKim7/postgresql_gy
 
+<hr />
+
+# Ubuntu 25.04 Install
+- https://docs.vultr.com/how-to-install-postgresql-on-ubuntu-2504
+
+<hr />
+
 # (영상모아보기)SQL Bootcamp Playlist (2025) - Zero to Hero | Data with Baraa
 - https://youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&si=fMhFCixX9HGBGzYo
 
