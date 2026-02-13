@@ -63,6 +63,33 @@ $ pgcli -h localhost -p 5432 postgres -d postgres
 
 <hr />
 
+# macOS Install
+
+```bash
+==> Caveats
+This formula has created a default database cluster with:
+  initdb --locale=en_US.UTF-8 -E UTF-8 /opt/homebrew/var/postgresql@18
+
+When uninstalling, some dead symlinks are left behind so you may want to run:
+  brew cleanup --prune-prefix
+
+postgresql@18 is keg-only, which means it was not symlinked into /opt/homebrew,
+because this is an alternate version of another formula.
+
+If you need to have postgresql@18 first in your PATH, run:
+  fish_add_path /opt/homebrew/opt/postgresql@18/bin
+
+For compilers to find postgresql@18 you may need to set:
+  set -gx LDFLAGS "-L/opt/homebrew/opt/postgresql@18/lib"
+  set -gx CPPFLAGS "-I/opt/homebrew/opt/postgresql@18/include"
+
+To start postgresql@18 now and restart at login:
+  brew services start postgresql@18
+Or, if you don't want/need a background service you can just run:
+  LC_ALL="en_US.UTF-8" /opt/homebrew/opt/postgresql@18/bin/postgres -D /opt/homebrew/var/postgresql@18
+
+```
+
 # docker run
 - https://diary-developer.tistory.com/20
 
