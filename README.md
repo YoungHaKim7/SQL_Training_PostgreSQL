@@ -7,6 +7,7 @@
 
 - [PostgreSQL역사와 정리 잘됨. wiki](https://en.wikipedia.org/wiki/PostgreSQL)
 - [PostgreSQL CheatSheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
+- [PostgreSQL 공식 문서](https://www.postgresql.org/docs/online-resources/)
 
 # link
 
