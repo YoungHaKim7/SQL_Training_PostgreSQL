@@ -8,5 +8,8 @@
 
 - [(외부링크)https://neon.tech/postgresql/postgresql-getting-started/postgresql-sample-database](https://neon.tech/postgresql/postgresql-getting-started/postgresql-sample-database)
 
+# (190404)(4.5hr)Learn PostgreSQL Tutorial - Full Course for Beginners | freeCodeCamp.org
+- https://youtu.be/qw--VYLpxG4?si=nTn8ipYqIW2vE9cv
+
 # (251010)(11hr) Harvard CS50’s Intro to Databases with SQL – Full University Course | freeCodeCamp.org
 - https://youtu.be/WXk7yDqsKxs?si=9hF0sfvHTMtLIj8x
