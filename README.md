@@ -40,7 +40,7 @@
 
 <hr />
 
-# 겁나 편하다. ㅋ
+# 겁나 편하다. ㅋ(터미널에서 자동완성 + 설명까지 굿 CLI)
 - https://github.com/dbcli/pgcli
   - https://www.pgcli.com/
 
