@@ -1,6 +1,6 @@
 <p align="center">
-  <img width=20px src="https://github.com/user-attachments/assets/3489669b-63c0-439e-b507-9b2bfb3fdd5e" />
-  <img width=20px alt="Image" src="https://github.com/user-attachments/assets/85896eda-47bc-44cc-9c18-68fdf72ac06c" />
+  <img width=45px src="https://github.com/user-attachments/assets/3489669b-63c0-439e-b507-9b2bfb3fdd5e" />
+  <img width=45px alt="Image" src="https://github.com/user-attachments/assets/85896eda-47bc-44cc-9c18-68fdf72ac06c" />
 </p>
 
 # SQL_Training_PostgreSQL
