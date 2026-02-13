@@ -40,6 +40,15 @@
 
 <hr />
 
+# 겁나 편하다. ㅋ
+- https://github.com/dbcli/pgcli
+  - https://www.pgcli.com/
+
+- 비번 먼저 설정해야함
+```bash
+$ pgcli -h localhost -p 5432 postgres -d postgres
+```
+
 
 # PostgreSQL Tutorial[|🔝|](#link)
 - https://neon.tech/postgresql/tutorial
