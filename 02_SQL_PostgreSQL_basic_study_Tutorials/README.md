@@ -1,3 +1,8 @@
+# link
+- [PostgreSQL CheatSheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
+
+<hr />
+
 # 내가 정리한 PostgreSQL 커멘드Command 모음
 - https://github.com/YoungHaKim7/postgresql_gy
 
