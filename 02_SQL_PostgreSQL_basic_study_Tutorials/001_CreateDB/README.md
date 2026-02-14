@@ -4,6 +4,12 @@
 
 ```
 
+# DB user 추가
+
+```sql
+ALTER USER gy WITH PASSWORD 'your_new_password'
+```
+
 ## Solution 4: Try connecting with different methods
 
 Try these alternatives:
