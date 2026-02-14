@@ -1,0 +1,8 @@
+[package]
+name = "a01_createdb"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+postgresql_embedded = "0.20.1"
+tokio = { version = "1.49.0", features = ["full"] }

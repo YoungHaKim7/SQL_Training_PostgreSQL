@@ -1,0 +1,2 @@
+-- Connect to postgres as superuser first, then run:
+-- ALTER USER gy WITH PASSWORD 'your_new_password';
