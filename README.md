@@ -260,3 +260,4 @@ For pkg-config to find libpq you may need to set:
   set -gx PKG_CONFIG_PATH "/opt/homebrew/opt/libpq/lib/pkgconfig"
 
 ```
+
