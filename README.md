@@ -29,6 +29,7 @@
 <hr />
 
 - crates.io
+  - https://crates.io/crates/postgres
   - https://github.com/theseus-rs/postgresql-embedded
 
 <hr />

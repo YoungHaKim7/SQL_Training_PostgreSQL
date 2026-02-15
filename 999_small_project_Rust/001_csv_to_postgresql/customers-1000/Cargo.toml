@@ -1,0 +1,9 @@
+[package]
+name = "a01_csv_to_postgresql"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4.43"
+csv = "1.4.0"
+postgres = "0.19.12"
