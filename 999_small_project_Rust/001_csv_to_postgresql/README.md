@@ -10,3 +10,12 @@
 ```bash
 $ pgcli -h localhost -p 5432 postgres -d postgres
 ```
+
+# PostgresSQL DB에 있는거 csv로 export
+
+```sql
+COPY customers(id, name, email, age)
+FROM '/absolute/path/customers.csv'
+DELIMITER ','
+CSV HEADER;
+```
